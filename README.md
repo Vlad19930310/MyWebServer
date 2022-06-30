@@ -4,3 +4,6 @@
 3. Get free tier subscription ```Amazon AWS``` 
 4. By terraform or manualy deploy: VPC, subnet, publicIP, virual machine linux with installed Apache web server
 6. May use my ```.tf``` file and ```.sh``` script to deploy webserver
+7. Get domain adress for website. (you can use any srvice)
+8. Make ```A``` record to associate your publicIP AWS with domain
+9. My Ex: www.mastertechno.by
